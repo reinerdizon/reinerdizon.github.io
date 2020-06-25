@@ -1,2 +1,2 @@
 # My Personal Portfolio Website
-https://reinerdizon.com/
+https://reinerdizon.github.io/
